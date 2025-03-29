@@ -88,8 +88,8 @@ This will generate a `build/` directory with optimized production files.
 ## Technologies Used
 - React.js
 - React Router
-- Axios for API requests
-- Tailwind CSS for styling
+- Native fetch API for API requests
+- Custom CSS for styling
 - Local Storage for token persistence
 
 ## Error Handling
